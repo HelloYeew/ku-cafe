@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
+[Breakfast](#breakfast)|[Lunch](#lunch)|[Dinner](#dinner)|[Night food](#night-food)|[Beverages](#beverages)
 
 
 ## About Us
