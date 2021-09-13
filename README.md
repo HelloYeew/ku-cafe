@@ -2,11 +2,10 @@
 
 ## [Menu](Menu.md)
 
-
-- [Lunch](/Menu.md#lunch)
-- [Night Food](/Menu.md#Night-Food)
 - [Breakfast](Menu.md#Breakfast)
+- [Lunch](/Menu.md#lunch)
 - [Dinner](Menu.md#Dinner)
+- [Night Food](/Menu.md#Night-Food)
 - [Beverages](Menu.md#Beverages)
 
 
@@ -19,8 +18,8 @@
 |:----------|-----------|-----------------|
 | Pichapa   | Breakfast | @peach007 |
 | Patkamon | Launch | @patkamon |
-| Phinyaphak | Dinner Menu | @vnsvakanda      |
-| Pattanan  | night food| @pattanan-cyber  |
+| Phinyaphak | Dinner | @vnsvakanda      |
+| Pattanan  | Night food| @pattanan-cyber  |
 | Phawit | Beverages | @HelloYeew |
 
 
