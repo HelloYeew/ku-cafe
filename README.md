@@ -11,4 +11,4 @@
 
 | Name       | Role        | Github          |
 |:-----------|-------------|-----------------|
-| Phinyaphak | Dinner Menu | vnsvakanda      |
+| Phinyaphak | Dinner Menu | @vnsvakanda      |
