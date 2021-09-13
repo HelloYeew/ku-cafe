@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night food](#night-food) | [Beverages](#beverages)
+[Dinner](https://github.com/HelloYeew/ku-cafe/blob/dinner-menu/Menu.md)
 
 
 ## About Us
