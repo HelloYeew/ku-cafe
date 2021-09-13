@@ -2,10 +2,16 @@
 
 
 ## Breakfast
+| Menu            | Price |  
+| :----            | :----: |
+| Cranberry nut oatmeal|  60 Bt|
+|Fried egg on toast  | 45 Bt |
+| Fruit salad    | 70 Bt|
+| Ham and Cheese wrap   |45 Bt|
+| Omelette Bacon  |    45 Bt|
+| Pancakes       | 45 Bt|
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+
 
 ## Lunch 
 
