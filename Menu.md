@@ -18,7 +18,12 @@
 
 ## Beverages
 
-
+| Item | Price |
+|------|-------|
+| Coffee | 40 Bt |
+| Milk   | 40 Bt |
+| Tea    | 40 Bt |
+| Water  | 10 Bt |
 
 ---
 

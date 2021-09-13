@@ -2,9 +2,7 @@
 
 ## [Menu](Menu.md)
 
-
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Night food](#night-food) | [Beverages](#beverages)
-
+- [Beverages](Menu.md#Beverages)
 
 ## About Us
 
@@ -12,4 +10,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Phawit Pornwattanakul | Beverages | @HelloYeew |
