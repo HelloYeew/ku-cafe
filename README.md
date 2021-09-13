@@ -12,4 +12,4 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Patkamon Awaiwanont | Launch | @patkamon |

@@ -7,8 +7,14 @@
     Fried Grasshoppers (terrible)  -10
     (use proper Markdown formatting, not literal text like this)
 
-## Lunch 
+## Lunch
 
+| Items    | Price     |
+|:----------|-----------|
+| Steak and eggs| 100 |
+| Healthy Sandwich | 100 |
+| Healthy wrap | 100 |
+| Healty omelette | 99 |
 
 ## Dinner
 
