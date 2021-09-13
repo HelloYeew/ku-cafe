@@ -3,13 +3,25 @@
 ## [Menu](Menu.md)
 
 
- - [Lunch](/Menu.md#lunch)
+- [Lunch](/Menu.md#lunch)
+- [Night Food](/Menu.md#Night-Food)
+- [Breakfast](Menu.md#Breakfast)
+- [Dinner](Menu.md#Dinner)
+- [Beverages](Menu.md#Beverages)
+
 
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points deducted if one person adds everyone.
+
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Patkamon Awaiwanont | Launch | @patkamon |
+| Pichapa   | Breakfast | @peach007 |
+| Patkamon | Launch | @patkamon |
+| Phinyaphak | Dinner Menu | @vnsvakanda      |
+| Pattanan  | night food| @pattanan-cyber  |
+| Phawit | Beverages | @HelloYeew |
+
+
+
