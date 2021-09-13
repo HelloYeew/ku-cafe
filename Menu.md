@@ -14,12 +14,14 @@
 
 
 ## Night Food
-| Items|  Prices |
-|------|---------|
-|Coke  |  30.0 Bt|
-|Fired |  20.0 Bt|
-|Milk  |  10.0 Bt|
-|Tea   |  12.0 Bt|
+|    Items     | Prices|
+|--------------|-------|
+|Steamed rice  |  30 Bt|
+|Vegetable     |  20 Bt|
+|Papaya salad  |  40 Bt|
+|Roast chicken |  70 Bt|
+|apple salad   |  40 Bt|
+|Spicy chicken |  70 Bt|
 
 
 ## Beverages
