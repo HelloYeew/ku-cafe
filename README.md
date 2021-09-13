@@ -3,8 +3,7 @@
 ## [Menu](Menu.md)
 [Breakfast](Menu.md#Breakfast)
 
-**TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
-
+- [Beverages](Menu.md#Beverages)
 
 ## About Us
 
@@ -13,3 +12,4 @@
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Pichapa   | Breakfast | @peach007
+| Phawit Pornwattanakul | Beverages | @HelloYeew |
