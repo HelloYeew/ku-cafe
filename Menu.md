@@ -11,10 +11,13 @@
 
 | Items    | Price     |
 |:----------|-----------|
-| Steak and eggs| 100 |
-| Healthy Sandwich | 100 |
-| Healthy wrap | 100 |
-| Healty omelette | 99 |
+| Healty omelette | 99 Bt |
+| Healthy Sandwich | 100 Bt |
+| Healthy wrap | 100 Bt |
+| Steak and eggs| 100 Bt |
+
+
+
 
 ## Dinner
 
