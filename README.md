@@ -1,6 +1,7 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
+[Breakfast](Menu.md#Breakfast)
 
 - [Beverages](Menu.md#Beverages)
 
@@ -10,4 +11,5 @@
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
+| Pichapa   | Breakfast | @peach007
 | Phawit Pornwattanakul | Beverages | @HelloYeew |
