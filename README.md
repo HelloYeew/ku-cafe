@@ -1,7 +1,7 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
-## [Breakfast](#Breakfast)
+[Breakfast](Menu.md#Breakfast)
 
 **TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
 
