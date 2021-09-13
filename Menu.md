@@ -14,6 +14,12 @@
 
 
 ## Night Food
+| Items|  Prices |
+|------|---------|
+|Coke  |  30.0 Bt|
+|Fired |  20.0 Bt|
+|Milk  |  10.0 Bt|
+|Tea   |  12.0 Bt|
 
 
 ## Beverages
