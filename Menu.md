@@ -18,7 +18,12 @@
 
 ## Beverages
 
-
+| Item | Price |
+|------|-------|
+| Coffee | 40 |
+| Milk   | 40 |
+| Tea    | 40 |
+| Water  | 10 |
 
 ---
 
