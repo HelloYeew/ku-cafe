@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Dinner](https://github.com/HelloYeew/ku-cafe/blob/dinner-menu/Menu.md)
+- [Dinner](Menu.md#Dinner)
 
 
 ## About Us
