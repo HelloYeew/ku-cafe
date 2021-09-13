@@ -2,7 +2,7 @@
 
 ## [Menu](Menu.md)
 
-[Breakfast] (#breakfast)|[Lunch] (#lunch)|[Dinner] (#dinner)|[Night food] (#night-food)|[Beverages] (#beverages)
+[Breakfast](#breakfast) |[Lunch](#lunch) |[Dinner](#dinner) |[Night food](#night-food) |[Beverages](#beverages)
 
 
 ## About Us
