@@ -1,6 +1,7 @@
 # KU Cafe
 
 ## [Menu](Menu.md)
+## [Breakfast](#Breakfast)
 
 **TODO**: add hyperlinks **one per line** to each section of the Menu. Remove this TODO.
 
@@ -12,3 +13,4 @@
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
 | Your name | Your menu | @your_github_id |
+| Pichapa   | Breakfast | peach007
