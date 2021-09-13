@@ -2,7 +2,7 @@
 
 
 ## Breakfast
-| Menu            | Price |  
+| Item            | Price |  
 | :----            | :----: |
 | Cranberry nut oatmeal|  60 Bt|
 |Fried egg on toast  | 45 Bt |
@@ -15,7 +15,7 @@
 
 ## Lunch
 
-| Items    | Price     |
+| Item    | Price     |
 |:----------|-----------|
 | Healty omelette | 99 Bt |
 | Healthy Sandwich | 100 Bt |
@@ -37,7 +37,7 @@
 
 
 ## Night Food
-|    Items     | Prices|
+|    Item     | Price |
 |--------------|-------|
 |Steamed rice  |  30 Bt|
 |Vegetable     |  20 Bt|
