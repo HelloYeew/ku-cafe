@@ -1,4 +1,4 @@
-# KU Cafe Menu
+# KU Cafe
 
 ## [Menu](Menu.md)
 
