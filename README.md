@@ -8,11 +8,13 @@
 
 ## About Us
 
-**TODO**: Each person add yourself to this table; Points deducted if one person adds everyone.
 
-| Name       | Role        | Github          |
-|:-----------|-------------|-----------------|
+
+| Name      | Role      | Github          |
+|:----------|-----------|-----------------|
+| Pattanan  | night food| @pattanan-cyber  |
+| Pichapa   | Breakfast | @peach007 |
 | Phinyaphak | Dinner Menu | @vnsvakanda      |
-| Pichapa   | Breakfast | @peach007
+| Pichapa   | Breakfast | @peach007|
 | Phawit Pornwattanakul | Beverages | @HelloYeew |
 
